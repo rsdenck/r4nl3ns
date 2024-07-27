@@ -1,4 +1,4 @@
-# 🛠️ Sobre Mim
+## Olá, eu sou R. Denck
 
 Olá! Eu sou **rdenck** (he/him), um dedicado **Analista de Monitoramento** especializado em soluções de TI. Tenho uma paixão por manter sistemas seguros, eficientes e sempre monitorados.
 
@@ -25,5 +25,4 @@ Como Analista de Monitoramento, meu objetivo é proporcionar um ambiente de TI r
 Vamos nos conectar e compartilhar conhecimentos!
 
 * [LinkedIn](https://www.linkedin.com/in/ranlensdenck/)
-
 ---
