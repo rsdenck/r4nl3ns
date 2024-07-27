@@ -21,7 +21,6 @@ Como Analista de Monitoramento, meu objetivo é proporcionar um ambiente de TI r
 - Colaboração com equipes de desenvolvimento e operações para garantir a integridade e disponibilidade dos sistemas
 
 ## 📈 Conecte-se comigo
-https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=whit
 
 Vamos nos conectar e compartilhar conhecimentos!
 
