@@ -30,28 +30,28 @@ Atualmente, trabalho com **infraestrutura Linux**, **Zabbix**, **HashiCorp Vault
 
 ## 🚀 Estatísticas do meu GitHub  
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rsdenck&show_icons=true&theme=radical&count_private=true&hide_title=true&hide=prs"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=rsdenck&theme=radical&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rsdenck&layout=compact&langs_count=8&theme=radical"/>
-</p>
+<div align="center">
+  <a href="https://github.com/rsdenck">
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=rsdenck&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_title=true&hide=prs"/>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rsdenck&layout=compact&langs_count=8&theme=radical"/>
+  </a>
+</div>
 
 ---
 
 ## 🛠️ Habilidades  
 
-✅ **Linux** (RedHat, Rocky Linux, Alpine)  
-✅ **Zabbix** (Agente, Proxy, Templates avançados)  
-✅ **HashiCorp Vault** (Segurança de credenciais e dados sensíveis)  
-✅ **Proxmox** (Virtualização e Containers)  
-✅ **Zeek**, **Suricata**, **Wazuh** (Monitoramento de segurança)  
-✅ **SQLite3**, **SQLCipher** (Armazenamento criptografado)  
-✅ **Git** (Controle de versão)  
-✅ **Shell Script** (Automação e scripts personalizados)  
-✅ **Docker** (Containerização de soluções)  
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/> **Linux**  
+<img src="https://img.shields.io/badge/Zabbix-7.0-red?style=flat-square&logo=zabbix"/> **Zabbix**  
+<img src="https://img.shields.io/badge/HashiCorp%20Vault-1.9-yellow?style=flat-square&logo=hashicorp"/> **HashiCorp Vault**  
+<img src="https://img.shields.io/badge/Proxmox-6.3-orange?style=flat-square&logo=proxmox"/> **Proxmox**  
+<img src="https://img.shields.io/badge/Security-blue?style=flat-square&logo=security"/> **Zeek, Suricata, Wazuh**  
+<img src="https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white"/> **SQLite3, SQLCipher**  
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/> **Git**  
+<img src="https://img.shields.io/badge/Shell_Script-121011?style=flat-square&logo=gnu-bash&logoColor=white"/> **Shell Script**  
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/> **Docker**  
+<img src="https://img.shields.io/badge/VMware-607078?style=flat-square&logo=vmware&logoColor=white"/> **VMware**  
+<img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white"/> **Grafana**  
 
 ---
 
