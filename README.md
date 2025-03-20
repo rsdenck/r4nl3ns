@@ -48,7 +48,7 @@ Aqui estão alguns dos meus projetos em destaque:
 
 Um projeto de monitoramento avançado para ambientes **Linux**, usando **Zabbix**. Este repositório contém templates e integrações personalizadas para monitorar servidores, containers Docker, e mais, com foco em **segurança** e **desempenho**.
 
-### [Zabbix Proxy ISO Customizada](https://github.com/rsdenck/ZalpaOS)
+### [Zabbix Proxy ISO Customizada](https://github.com/rsdenck/zabbix-proxy-iso)
 
 Um projeto baseado em **Alpine Linux** para criar uma ISO do **Zabbix Proxy** 7.0 com **criptografia PSK SHA-512** e **SQLCipher**. Ideal para ambientes onde a segurança e integridade dos dados são essenciais.
 
