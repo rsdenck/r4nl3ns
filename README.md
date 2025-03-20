@@ -45,7 +45,9 @@ Atualmente, trabalho com **infraestrutura Linux**, **Zabbix**, **HashiCorp Vault
 <img src="https://img.shields.io/badge/Zabbix-7.0-red?style=flat-square&logo=zabbix"/> **Zabbix**  
 <img src="https://img.shields.io/badge/HashiCorp%20Vault-1.9-yellow?style=flat-square&logo=hashicorp"/> **HashiCorp Vault**  
 <img src="https://img.shields.io/badge/Proxmox-6.3-orange?style=flat-square&logo=proxmox"/> **Proxmox**  
-<img src="https://img.shields.io/badge/Security-blue?style=flat-square&logo=security"/> **Zeek, Suricata, Wazuh**  
+<img src="https://img.shields.io/badge/Zeek-FFD700?style=flat-square&logo=zeek"/> **Zeek**  
+<img src="https://img.shields.io/badge/Suricata-ff4500?style=flat-square&logo=suricata"/> **Suricata**  
+<img src="https://img.shields.io/badge/Wazuh-0052CC?style=flat-square&logo=wazuh"/> **Wazuh**  
 <img src="https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white"/> **SQLite3, SQLCipher**  
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/> **Git**  
 <img src="https://img.shields.io/badge/Shell_Script-121011?style=flat-square&logo=gnu-bash&logoColor=white"/> **Shell Script**  
