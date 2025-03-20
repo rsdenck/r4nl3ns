@@ -10,7 +10,11 @@ Sou **Analista de Infraestrutura de TI** com foco em **Zabbix** e especialista e
 
 Atualmente, trabalho com **infraestrutura Linux**, **Zabbix**, **HashiCorp Vault**, **Proxmox**, e outras ferramentas de monitoramento e segurança. Busco sempre criar soluções de alta performance e seguras para ambientes corporativos.
 
-### 🛠️ Habilidades
+## 🚀 Estatísticas do meu GitHub
+
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=RanlensDenck&show_icons=true&theme=radical)
+
+## 🛠️ Habilidades
 
 - **Linux** (RedHat, Rocky Linux, Alpine)
 - **Zabbix** (Agente, Proxy, Templates avançados)
