@@ -1,3 +1,13 @@
+# 💻 Tecnologia e Ferramentas  
+
+<p align="center">
+  <a href="https://www.linux.org/"><img src="https://img.shields.io/badge/Linux-Server-blue?style=for-the-badge&logo=linux"/></a>
+  <a href="https://www.zabbix.com/"><img src="https://img.shields.io/badge/Zabbix-7.0-red?style=for-the-badge&logo=zabbix"/></a>
+  <a href="https://www.hashicorp.com/products/vault"><img src="https://img.shields.io/badge/HashiCorp%20Vault-1.9-yellow?style=for-the-badge&logo=hashicorp"/></a>
+  <a href="https://github.com/rsdenck"><img src="https://img.shields.io/badge/GitHub-Dev-black?style=for-the-badge&logo=github"/></a>
+  <a href="https://www.docker.com/"><img src="https://img.shields.io/badge/Docker-Container-blue?style=for-the-badge&logo=docker"/></a>
+</p>
+
 # Olá, sou **Ranlens Denck**! 👨‍💻  
 
 Bem-vindo ao meu repositório! 👋  
@@ -51,17 +61,9 @@ Um projeto baseado em **Alpine Linux** para criar uma ISO do **Zabbix Proxy** 7.
 
 ## 📅 Como me encontrar  
 
-- 📧 **Email**: ranlens.denck@protonmail.com
+- 📧 **Email**: ranlens.denck@protonmail.com  
 - 🌐 **LinkedIn**: [Ranlens Denck](https://www.linkedin.com/in/ranlensdenck)  
-- 💼 **Apex Cloud**: [Apex Cloud - Soluções de Monitoramento](rsdenck.github.io/apex.cloud/)  
-
-## 💻 Tecnologia e Ferramentas  
-
-[![Linux](https://img.shields.io/badge/Linux-Server-blue?style=for-the-badge&logo=linux)](https://www.linux.org/)  
-[![Zabbix](https://img.shields.io/badge/Zabbix-7.0-red?style=for-the-badge&logo=zabbix)](https://www.zabbix.com/)  
-[![HashiCorp Vault](https://img.shields.io/badge/HashiCorp%20Vault-1.9-yellow?style=for-the-badge&logo=hashicorp)](https://www.hashicorp.com/products/vault)  
-[![GitHub](https://img.shields.io/badge/GitHub-Dev-black?style=for-the-badge&logo=github)](https://github.com/rsdenck)  
-[![Docker](https://img.shields.io/badge/Docker-Container-blue?style=for-the-badge&logo=docker)](https://www.docker.com/)  
+- 💼 **Apex Cloud**: [Apex Cloud - Soluções de Monitoramento](https://rsdenck.github.io/apex.cloud/)  
 
 ---
 
