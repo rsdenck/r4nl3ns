@@ -6,13 +6,17 @@ Sou **Analista de Infraestrutura de TI** com foco em **Zabbix** e especialista e
 
 ## Sobre mim
 
-![Meu GIF de boas-vindas](https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif?cid=ecf05e47r46v674rmzjst7oisxl62e7vu8rs380sm5jx8v2l&ep=v1_gifs_search&rid=giphy.gif&ct=g)
+<p align="center">
+  <img src="https://media.giphy.com/media/6NiX9zeko5Le8/giphy.gif" width="500" />
+</p>
 
 Atualmente, trabalho com **infraestrutura Linux**, **Zabbix**, **HashiCorp Vault**, **Proxmox**, e outras ferramentas de monitoramento e segurança. Busco sempre criar soluções de alta performance e seguras para ambientes corporativos.
 
 ## 🚀 Estatísticas do meu GitHub
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=RanlensDenck&show_icons=true&theme=radical)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rsdenck&show_icons=true&theme=radical&count_private=true&hide_title=true" alt="Estatísticas do GitHub" />
+</div>
 
 ## 🛠️ Habilidades
 
