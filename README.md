@@ -7,16 +7,17 @@ Sou **Analista de Infraestrutura de TI** com foco em **Zabbix** e especialista e
 ## Sobre mim
 
 <p align="center">
-  <img src="https://media.giphy.com/media/6NiX9zeko5Le8/giphy.gif" width="500" />
+  <img src="https://camo.githubusercontent.com/f3d1844ae6b25ed2014a4cc0c2c06e43791ef47db2f99aa3cc76279d0c4c80e2/68747470733a2f2f6469676974616c65646765746563682e696e2f696d616765732f42616e6e65725f30325f6e65772e676966" width="500" />
 </p>
 
 Atualmente, trabalho com **infraestrutura Linux**, **Zabbix**, **HashiCorp Vault**, **Proxmox**, e outras ferramentas de monitoramento e segurança. Busco sempre criar soluções de alta performance e seguras para ambientes corporativos.
 
 ## 🚀 Estatísticas do meu GitHub
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rsdenck&show_icons=true&theme=radical&count_private=true&hide_title=true" alt="Estatísticas do GitHub" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rsdenck&show_icons=true&theme=radical&count_private=true&hide_title=true" alt="Estatísticas do GitHub" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rsdenck&layout=compact&langs_count=8&theme=radical" alt="Linguagens mais usadas" width="45%" />
+</p>
 
 ## 🛠️ Habilidades
 
